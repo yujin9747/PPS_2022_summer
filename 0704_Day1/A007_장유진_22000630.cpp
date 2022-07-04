@@ -1,3 +1,7 @@
+/*
+음계 판별하기
+https://www.acmicpc.net/problem/2920
+*/
 #include <iostream>
 using namespace std;
 int main(){

@@ -1,3 +1,7 @@
+/*
+검증수
+https://www.acmicpc.net/problem/2475
+*/
 #include <iostream>
 using namespace std;
 int main(){
