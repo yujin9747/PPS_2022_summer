@@ -1,7 +1,6 @@
 /*
 문자열 다루기 기본
 https://programmers.co.kr/learn/courses/30/lessons/12918
-
 문자열이 숫자인지 확인(길이 4 또는 6)
 */
 #include <string>
