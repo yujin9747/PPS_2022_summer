@@ -92,9 +92,9 @@ public:
             i++;                                                        // b's next bit 
         }
         // post conditon : i == b.lengthB
-        if(carry == '1') ret = ret.insert(0, "1");                  // if last carry out is 1(위의 주석 중 c4)
+        if(carry == '1') ret = ret.insert(0, "1");                      // if last carry out is 1(위의 주석 중 c4)
 
-        return ret;                                                 // 종료 2 : b가 a보다 길거나 같은 경우
+        return ret;                                                     // 종료 2 : b가 a보다 길거나 같은 경우
     }
 };
 
